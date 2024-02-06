@@ -92,12 +92,14 @@ body {
     width: 100%;
     float: left;
     margin-bottom: 30px;
-    /*background-color: lightgray;*/
+    background-color: #CBC3E3;
+    display: flex;
     /*border: 5px solid black;*/
   }
   
   h1 {
     /*Heading for the entire article*/
+    background-color: #CBC3E3;
     font-size: 3rem;
     font-family: "Bebas Neue", sans-serif;
     margin: 0;
@@ -113,6 +115,7 @@ body {
   }
   
   .byline {
+    background-color: plum;
     font-family: "Bebas Neue", sans-serif;
     font-size: 1.2rem;
   }
