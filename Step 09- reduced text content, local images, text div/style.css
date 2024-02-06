@@ -1,0 +1,174 @@
+body {
+    color: hsl(210, 51%, 20%);
+    font-size: 16px;
+    font-family: "Helvetica", sans-serif;
+    font-style: light;
+}
+
+.content-wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+}
+
+header{
+    text-align: center;
+    /*background-color: lightgray;*/
+    /*border: 5px solid black;*/
+}
+
+.author {
+    display: inline;
+}
+
+.author-title {
+    display: inline;
+}
+
+.byline .separator {
+    display: inline;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+h1 {
+    /*heading for the entire article*/
+    font-size: 3rem;
+    font-family: "Helvetica", sans-serif;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.byline {
+    font-family: "Hevetica", sans-serif;
+    font-size: 2rem;
+}
+
+h2 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 1.2rem;
+}
+
+h3 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 2rem;
+}
+
+h4 {
+    /*text-transform: uppercase;*/
+    font-size: 1.5rem;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 30px;
+}
+
+figure {
+    float: right;
+    /*border: 5px solid black;*/
+    /*padding: 10px;*/
+    margin-top: 0px;
+    margin-bottom: 20px;
+    /*margin-left: 20px;*/
+    /*margin-right: 20px;*/
+}
+
+img {
+    /*border: 5px solid black;*/
+    /*padding: 10px;*/
+    /*display: block;*/
+    /*margin-left: auto;*/
+   /* margin-right: auto;*/
+}
+
+section {
+    clear: both;
+    margin-top: 60px;
+}
+
+.intro figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.joshuatree figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.joshuarock figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.cacti figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.skullrock figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.campingstars figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.griffith figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.hollywood figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.night figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.grandcanyon figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.horseshoebend figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.antelopecanyon figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.antelopecanyon figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.grandstar figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.outro figure {
+    float: right;
+    margin-left: 40px;
+}
+
+ul {
+    font-style: italic;
+}
+
+li {
+    margin-bottom: 20px;
+}
