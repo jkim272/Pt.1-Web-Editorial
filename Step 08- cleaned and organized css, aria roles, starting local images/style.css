@@ -48,12 +48,12 @@ h1 {
 
 h2 {
     font-family: "Helvetica", sans-serif;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 h3 {
     font-family: "Helvetica", sans-serif;
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
 
 h4 {
@@ -93,6 +93,12 @@ section {
 .intro figure {
     float: right;
     margin-left: 40px;
+}
+
+.intro p {
+    font-weight: 100;
+    font-style: italic;
+    font-size: 1.3rem;
 }
 
 .joshuatree figure {
@@ -171,4 +177,13 @@ ul {
 
 li {
     margin-bottom: 20px;
+}
+
+footer {
+    background-color: lightgray;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
