@@ -29,6 +29,10 @@ header{
     display: inline;
 }
 
+figcaption {
+    font-style: italic;
+}
+
 h1 {
     /*heading for the entire article*/
     font-size: 3rem;
@@ -69,8 +73,8 @@ figure {
     /*padding: 10px;*/
     margin-top: 0px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    /*margin-left: 20px;*/
+    /*margin-right: 20px;*/
 }
 
 img {
@@ -84,6 +88,81 @@ img {
 section {
     clear: both;
     margin-top: 60px;
+}
+
+.intro figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.joshuatree figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.joshuarock figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.cacti figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.skullrock figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.campingstars figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.griffith figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.hollywood figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.night figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.grandcanyon figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.horseshoebend figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.antelopecanyon figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.antelopecanyon figure {
+    float: right;
+    margin-left: 40px;
+}
+
+.grandstar figure {
+    float: left;
+    margin-left: 40px;
+}
+
+.outro figure {
+    float: right;
+    margin-left: 40px;
 }
 
 ul {
